@@ -1,0 +1,135 @@
+Here are 30 more job descriptions with the required headings for posting a job in your company:
+
+---
+
+### 21. **Cybersecurity Analyst**
+- **Job Type**: Full-time  
+- **Location**: Pune, India  
+- **Company Name**: SecureTech Solutions  
+- **Job Introduction**: We are looking for a Cybersecurity Analyst to protect our company from cyber threats by ensuring the security of our systems and networks.  
+- **Responsibilities**: Monitor network traffic, identify and analyze security threats, implement security measures, and ensure compliance with cybersecurity standards.  
+- **Qualifications**: Bachelor's in Information Security, 2+ years of experience in cybersecurity, knowledge of security tools and protocols.  
+- **What We Offer**: Competitive salary, career growth, health insurance, and work-life balance.  
+- **Job Niches**: Cybersecurity, IT Security  
+- **Salary**: ₹6,00,000 - ₹9,00,000 per annum
+
+---
+
+### 22. **Content Writer**
+- **Job Type**: Full-time  
+- **Location**: Remote  
+- **Company Name**: Digital Content Creators  
+- **Job Introduction**: We are seeking a creative and experienced Content Writer to create engaging articles, blogs, and website content.  
+- **Responsibilities**: Write compelling content, edit and proofread articles, conduct research, and collaborate with the marketing team.  
+- **Qualifications**: Bachelor's in English, Journalism, or related field, 2+ years of content writing experience, strong writing and research skills.  
+- **What We Offer**: Competitive salary, flexibility in working hours, and opportunities for growth.  
+- **Job Niches**: Content Creation, Writing  
+- **Salary**: ₹4,50,000 - ₹7,00,000 per annum
+
+---
+
+### 23. **Graphic Designer**
+- **Job Type**: Full-time  
+- **Location**: Delhi, India  
+- **Company Name**: Creative Designs Studio  
+- **Job Introduction**: We are looking for a talented Graphic Designer to create visually appealing designs for digital and print media.  
+- **Responsibilities**: Design logos, brochures, and marketing materials, collaborate with marketing teams, and ensure design consistency.  
+- **Qualifications**: Bachelor's in Graphic Design or related field, proficiency in Adobe Creative Suite, 2+ years of experience in graphic design.  
+- **What We Offer**: Competitive salary, creative environment, work-from-home opportunities.  
+- **Job Niches**: Graphic Design, Creative Arts  
+- **Salary**: ₹5,00,000 - ₹7,00,000 per annum
+
+---
+
+### 24. **Sales Manager**
+- **Job Type**: Full-time  
+- **Location**: Ahmedabad, India  
+- **Company Name**: Sales Experts Pvt Ltd  
+- **Job Introduction**: We are seeking an experienced Sales Manager to lead our sales team and drive business growth.  
+- **Responsibilities**: Develop sales strategies, lead a team of sales representatives, monitor sales performance, and build relationships with clients.  
+- **Qualifications**: Bachelor's in Business Administration or related field, 5+ years of sales experience, leadership skills.  
+- **What We Offer**: Attractive salary, performance incentives, career development.  
+- **Job Niches**: Sales, Business Development  
+- **Salary**: ₹8,00,000 - ₹12,00,000 per annum
+
+---
+
+### 25. **Customer Support Executive**
+- **Job Type**: Full-time  
+- **Location**: Mumbai, India  
+- **Company Name**: Support Solutions Pvt Ltd  
+- **Job Introduction**: We are looking for a dedicated Customer Support Executive to assist customers with inquiries and resolve issues effectively.  
+- **Responsibilities**: Handle customer queries, provide solutions to issues, maintain records of interactions, and ensure customer satisfaction.  
+- **Qualifications**: Bachelor's degree, 1+ years of experience in customer support, excellent communication skills.  
+- **What We Offer**: Competitive salary, health insurance, performance-based bonuses.  
+- **Job Niches**: Customer Support, Service Management  
+- **Salary**: ₹3,50,000 - ₹5,50,000 per annum
+
+---
+
+### 26. **HR Manager**
+- **Job Type**: Full-time  
+- **Location**: Bangalore, India  
+- **Company Name**: PeopleFirst HR  
+- **Job Introduction**: We are seeking an HR Manager to oversee recruitment, employee relations, and organizational development.  
+- **Responsibilities**: Manage hiring processes, handle employee grievances, design training programs, and ensure company policies are followed.  
+- **Qualifications**: Bachelor's in Human Resources or related field, 5+ years of experience in HR management, strong interpersonal skills.  
+- **What We Offer**: Competitive salary, career growth, work-life balance, health benefits.  
+- **Job Niches**: Human Resources, Employee Relations  
+- **Salary**: ₹7,50,000 - ₹10,00,000 per annum
+
+---
+
+### 27. **Cloud Developer**
+- **Job Type**: Full-time  
+- **Location**: Hyderabad, India  
+- **Company Name**: CloudX Technologies  
+- **Job Introduction**: We are looking for a Cloud Developer to design and implement cloud applications and services for our clients.  
+- **Responsibilities**: Build cloud-based solutions, design APIs, ensure scalability and performance, collaborate with cross-functional teams.  
+- **Qualifications**: Bachelor's in Computer Science, 2+ years of experience in cloud development, knowledge of AWS, Azure, or GCP.  
+- **What We Offer**: Competitive salary, work-from-home options, career development.  
+- **Job Niches**: Cloud Development, Software Engineering  
+- **Salary**: ₹8,00,000 - ₹11,00,000 per annum
+
+---
+
+### 28. **Project Manager**
+- **Job Type**: Full-time  
+- **Location**: Noida, India  
+- **Company Name**: Project Solutions Pvt Ltd  
+- **Job Introduction**: We are seeking an experienced Project Manager to lead and manage project timelines, budgets, and teams.  
+- **Responsibilities**: Plan project scope, manage project resources, coordinate with stakeholders, and ensure timely delivery.  
+- **Qualifications**: Bachelor's in Project Management, 4+ years of experience managing projects, PMP certification preferred.  
+- **What We Offer**: Attractive salary, career advancement opportunities, health insurance.  
+- **Job Niches**: Project Management, Leadership  
+- **Salary**: ₹9,00,000 - ₹12,00,000 per annum
+
+---
+
+### 29. **Data Scientist**
+- **Job Type**: Full-time  
+- **Location**: Pune, India  
+- **Company Name**: Data Solutions Pvt Ltd  
+- **Job Introduction**: We are looking for a Data Scientist to analyze large datasets and generate insights to support business decisions.  
+- **Responsibilities**: Analyze and interpret complex data, build predictive models, collaborate with teams to implement data-driven solutions.  
+- **Qualifications**: Bachelor's or Master's in Data Science, 3+ years of experience in data analysis, proficiency in Python, R, or SQL.  
+- **What We Offer**: Competitive salary, flexible work hours, career development opportunities.  
+- **Job Niches**: Data Science, Analytics  
+- **Salary**: ₹10,00,000 - ₹15,00,000 per annum
+
+---
+
+### 30. **Frontend Developer**
+- **Job Type**: Full-time  
+- **Location**: Delhi, India  
+- **Company Name**: WebX Solutions  
+- **Job Introduction**: We are seeking a skilled Frontend Developer to build visually stunning and user-friendly web applications.  
+- **Responsibilities**: Develop front-end components, optimize web performance, ensure compatibility across browsers, and collaborate with design teams.  
+- **Qualifications**: Bachelor's in Computer Science or related field, 2+ years of experience in frontend development, proficiency in HTML, CSS, JavaScript, React.  
+- **What We Offer**: Competitive salary, work-from-home options, career growth.  
+- **Job Niches**: Frontend Development, Web Development  
+- **Salary**: ₹6,00,000 - ₹9,00,000 per annum
+
+---
+
+I can provide more if you'd like. Let me know!
